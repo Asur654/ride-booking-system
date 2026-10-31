@@ -124,11 +124,6 @@ VITE_API_URL=http://localhost:4000
 ---
 ## 🔗 GitHub Repository
 
-[View Project on GitHub](https://github.com/gitika-shekhawat15/ride-booking-system)
+[View Project on GitHub](https://https://github.com/Asur654/ride-booking-system)
 
-##  Contact
 
-* **GitHub:** https://github.com/gitika-shekhawat15
-* **LinkedIn:** https://www.linkedin.com/in/gitika-shekhawat1507/
-
----
