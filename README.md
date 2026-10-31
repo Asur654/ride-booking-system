@@ -72,7 +72,7 @@ A full-stack real-time ride-hailing platform built using the MERN stack with Soc
 
 ```bash
 # Clone the repository
-git clone https://github.com/gitika-shekhawat15/ride-booking-system.git
+git clone https://https://github.com/Asur654/ride-booking-system.git
 
 # Backend setup
 cd backend
